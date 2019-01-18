@@ -1,0 +1,15 @@
+{
+	"project_id":"test-project-224301",
+	"model_id":"ICN1592650954751376317",
+	"show_video": true,
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 8,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [1280, 720],
+	"fps": 60,
+	"min_area": 5000,
+	"event_threshold": 5,
+	"weight_threshold": 25,
+	"motion_led_pin": 21
+}
